@@ -41,4 +41,4 @@ dependencies {
 
 ## Demonstration
 
-![](https://github.com/emanoellucasml/blink-effect-android-lib/demonstration.gif)
+![](https://github.com/emanoellucasml/blink-effect-android-lib/blob/master/demonstration.gif)
